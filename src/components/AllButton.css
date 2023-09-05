@@ -1,0 +1,21 @@
+.resetButton{
+  border: none;
+  border-radius: 0.5rem;
+  background-color: rgb(0,110,255);
+  color: white;
+  font-size: 2rem;
+  padding: 0.5rem;
+  display: block;
+  box-shadow: 0px 0px 8px #888;
+  margin-top: 1.5rem;
+  margin-left: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+
+.allButton{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}

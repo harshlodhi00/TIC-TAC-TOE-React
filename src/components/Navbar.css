@@ -1,0 +1,26 @@
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.centered {
+  text-align: center;
+  margin: 0;
+}
+
+.dark-btn {
+  background-color: white;
+  border: none;
+  font-size: 2rem;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+
+.dark-btns{
+  border-radius: 10%;
+}
